@@ -1,6 +1,6 @@
 # Project 3 - VirtualBox and Kali
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 **Homework Instructions**: 
 
