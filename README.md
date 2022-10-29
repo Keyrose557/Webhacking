@@ -13,8 +13,9 @@ Time spent: **X** hours spent in total
   - Tested version: 4.2
   - Fixed version: NOT FIXED
   - Tools/Resources Used:
-  <br />https://www.kali.org/tools/wpscan
-  <br />password list: rockyou.txt
+  <br /> https://www.kali.org/get-kali/#kali-virtual-machines
+  <br /> https://www.kali.org/tools/wpscan
+  <br /> password list: rockyou.txt
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
   - Commands used:
@@ -27,11 +28,11 @@ Time spent: **X** hours spent in total
 
 
 - [ ] Walkthrough:
-<br />Where's the Beef ?!?
+<br /> Where's the Beef ?!?
 <img src="user_enum1.gif">
-<br />A Successful Attack against all 5 User Accounts took 2min and 11 seconds !?!
+<br /> A Successful Attack against all 5 User Accounts took 2min and 11 seconds !?!
 <img src="BruteForce.gif">
-<br />The Damage... We got User credentials, PII, and our own Administrative Account !?!
+<br /> The Damage... We got User credentials, PII, and our own Administrative Account !?!
 <img src="damage.gif">
 
 
@@ -40,7 +41,7 @@ Time spent: **X** hours spent in total
 <br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET
 <br /> - After some poking and proding with WPSCAN lets use our collected INTEL to test our might. Commense Brute Force Attack!!!
 <br /> - Have I been pwned? Lets use the compromised credentials
-<br /> Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;)
+<br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;)
   
 ### 2. (Required) Vulnerability Name or ID
 
