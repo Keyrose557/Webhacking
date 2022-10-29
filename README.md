@@ -6,7 +6,7 @@ Time spent: **X** hours spent in total
 
 ## Pen Testing Report
 
-### 1. User Account Enumeration
+### 1. User Enumeration
 
 - [ ] Summary:    
   - Vulnerability types: Enumerating Users
