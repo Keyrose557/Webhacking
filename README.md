@@ -11,7 +11,8 @@ Time spent: **X** hours spent in total
 - [ ] Summary:    
   - Vulnerability types: Enumerating Users
   - Tested in version: 4.2
-  - Tools Used: https://www.kali.org/tools/wpscan
+  - Tools Used: 
+  - https://www.kali.org/tools/wpscan
   -  
 - [ ] GIF Walkthrough:
 <img src="user_enum1.gif">
