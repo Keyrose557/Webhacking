@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 ### 1. User Account Enumeration
 
-- [ ] Summary: Discovering What Usernames exist is half the battle.  
+- [ ] Summary:    
   - Vulnerability types: Enumerating Users
   - Tested in version: 4.2
   - Tools Used: https://www.kali.org/tools/wpscan
