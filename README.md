@@ -12,7 +12,7 @@ Time spent: **X** hours spent in total
   - Vulnerability types: Enumerating Users
   - Tested version: 4.2
   - Fixed version: NOT FIXED
-  - Affected source code: [Link 1](http://wpdistillery.vm/wp-login.php)
+  - Affected source code: (http://wpdistillery.vm/wp-login.php)
   - Tools/Resources Used:
   <br /> https://www.kali.org/get-kali/#kali-virtual-machines
   <br /> https://www.kali.org/tools/wpscan
