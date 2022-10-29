@@ -28,16 +28,16 @@ Time spent: **X** hours spent in total
 - [ ] Walkthrough:
 <br />Where's the Beef ?!?
 <img src="user_enum1.gif">
-<br />A Successful Attack against all 5 User Accounts took 2min and 11 seconds !!!
+<br />A Successful Attack against all 5 User Accounts took 2min and 11 seconds !?!
 <img src="BruteForce.gif">
-<br />The Damage... We got User credentials, PII, and our own Administrative Account !!!
+<br />The Damage... We got User credentials, PII, and our own Administrative Account !?!
 <img src="damage.gif">
 
 
 - [ ] Steps to recreate:
 <br /> - Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info
 <br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET
-<br /> - After some poking and proding with WPSCAN lets use our INTEL to test our might.
+<br /> - After some poking and proding with WPSCAN lets use our INTEL to test our might. Commense Brute Force Attack!!!
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
