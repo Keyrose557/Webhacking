@@ -38,8 +38,6 @@ Time spent: **X** hours spent in total
 <br /> - Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info
 <br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET
 <br /> - After some poking and proding with WPSCAN lets use our INTEL to test our might. Commense Brute Force Attack!!!
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
 ### 2. (Required) Vulnerability Name or ID
 
