@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 ### 1. User Account Enumeration
 
-- [] Summary:    
+- [ ] Summary:    
   - Vulnerability types: Enumerating Users
   - Tested in version: 4.2
   - Tools/Resources Used:
