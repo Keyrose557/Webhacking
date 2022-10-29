@@ -22,7 +22,7 @@ Time spent: **X** hours spent in total
   
 
 
-- [ ] GIF Walkthrough:
+- [ ] Walkthrough:
 <img src="user_enum1.gif">
 <img src="BruteForce.gif">
 <img src="damage.gif">
