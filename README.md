@@ -14,7 +14,7 @@ Time spent: **X** hours spent in total
   - Tools Used: https://www.kali.org/tools/wpscan
   -  
 - [ ] GIF Walkthrough:
-<img src="user_enum1.gif" alt="WPSCAN for Users">
+<img src="user_enum1.gif">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
