@@ -43,6 +43,7 @@ Time spent: **X** hours spent in total
 <br /> - After some poking and proding with WPSCAN lets use our collected INTEL to test our might. Commense Brute Force Attack!!! 
 <br /> - Have I been pwned? Lets use the compromised credentials. GAIN ACCESS!!!
 <br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;). MAINTAIN ACCESS
+<br /> - Considerations: COVER YOUR TRACKS!!!
   
 ### 2. (Required) Vulnerability Name or ID
 
