@@ -15,6 +15,8 @@ Time spent: **X** hours spent in total
   -  
 - [ ] GIF Walkthrough:
 <img src="user_enum1.gif">
+<img src="BruteForce.gif">
+<img src="damage.gif">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
