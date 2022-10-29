@@ -19,6 +19,7 @@ Time spent: **X** hours spent in total
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
   - Commands used:
   <br /> sudo gunzip /usr/share/wordlists/rockyou.txt.gz (extract and move for ease of use)
+  <br /> wpscan -h (Display the Help)
   <br /> wpscan --url http://wpdistillery.vm (Reconnasissance)
   <br /> wpscan --url http://wpdistillery.vm --enumerate u (Finding Usernames)
   <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt (BruteForce Attack)
@@ -37,7 +38,9 @@ Time spent: **X** hours spent in total
 - [ ] Steps to recreate:
 <br /> - Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info
 <br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET
-<br /> - After some poking and proding with WPSCAN lets use our INTEL to test our might. Commense Brute Force Attack!!!
+<br /> - After some poking and proding with WPSCAN lets use our collected INTEL to test our might. Commense Brute Force Attack!!!
+<br /> - Have I been pwned? Lets use the compromised credentials
+<br /> Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;)
   
 ### 2. (Required) Vulnerability Name or ID
 
