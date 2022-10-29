@@ -8,7 +8,7 @@ Time spent: **X** hours spent in total
 
 ### 1. User Enumeration (CVE-2020-7918)
 
-- [ ] Summary:    
+- [ ] Summary:     
   - Vulnerability types: Insecure direct object reference
   - Tested version: 4.2
   - Fixed version: NOT FIXED
@@ -33,16 +33,16 @@ Time spent: **X** hours spent in total
 <img src="user_enum1.gif">
 <br /> A Successful Attack against all 5 User Accounts took 2min and 11 seconds !?!
 <img src="BruteForce.gif">
-<br /> The Damage... We got User credentials, PII, and our own Administrative Account !?!
+<br /> The Damage... We got User credentials, PII, and our very own Administrative Account !?!
 <img src="damage.gif">
 
 
 - [ ] Steps to recreate:
-<br /> - Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info.
-<br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET.
-<br /> - After some poking and proding with WPSCAN lets use our collected INTEL to test our might. Commense Brute Force Attack!!!
-<br /> - Have I been pwned? Lets use the compromised credentials.
-<br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;).
+<br /> - Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info. Lets PLAN our attack.
+<br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET. Perfome RECONNAISSANCE.
+<br /> - After some poking and proding with WPSCAN lets use our collected INTEL to test our might. Commense Brute Force Attack!!! 
+<br /> - Have I been pwned? Lets use the compromised credentials. GAIN ACCESS!!!
+<br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;). MAINTAIN ACCESS
   
 ### 2. (Required) Vulnerability Name or ID
 
