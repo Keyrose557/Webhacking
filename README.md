@@ -26,11 +26,11 @@ Time spent: **X** hours spent in total
 
 
 - [ ] Walkthrough:
-<br />Where's the Beef
+<br />Where's the Beef ?!?
 <img src="user_enum1.gif">
 <br />A Successful Attack against all 5 User Accounts took 2min and 11 seconds !!!
 <img src="BruteForce.gif">
-<br />The Damage... We got User credentials, PII, and our own Administrative Account!!!
+<br />The Damage... We got User credentials, PII, and our own Administrative Account !!!
 <img src="damage.gif">
 
 
