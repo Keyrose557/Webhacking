@@ -25,7 +25,9 @@ Time spent: **X** hours spent in total
 - [ ] Walkthrough:
 <img src="user_enum1.gif">
 <img src="BruteForce.gif">
+The Damage
 <img src="damage.gif">
+
 
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
