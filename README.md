@@ -9,7 +9,7 @@ Time spent: **X** hours spent in total
 ### 1. User Enumeration (CVE-2020-7918)
 
 - [ ] Summary:    
-  - Vulnerability types: Enumerating Users
+  - Vulnerability types: Insecure direct object reference
   - Tested version: 4.2
   - Fixed version: NOT FIXED
   - Affected source code: (http://wpdistillery.vm/wp-login.php)
