@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 - [ ] Summary:    
   - Vulnerability types: Enumerating Users
-  - Tested in version: 4.2
-  - Fixed in version: NOT FIXED
+  - Tested version: 4.2
+  - Fixed version: NOT FIXED
   - Tools/Resources Used:
   <br />https://www.kali.org/tools/wpscan
   <br />password list: rockyou.txt
