@@ -6,12 +6,13 @@ Time spent: **X** hours spent in total
 
 ## Pen Testing Report
 
-### 1. (Required) Vulnerability Name or ID
+### 1. User Account Enumeration
 
-- [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
+- [ ] Summary: Discovering What Usernames exist is half the battle.  
+  - Vulnerability types: Enumerating Users
+  - Tested in version: 4.2
+  - Tools Used: https://www.kali.org/tools/wpscan
+  -  
 - [ ] GIF Walkthrough: 
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
