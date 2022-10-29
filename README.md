@@ -12,8 +12,7 @@ Time spent: **X** hours spent in total
   - Vulnerability types: Enumerating Users
   - Tested in version: 4.2
   - Tools/Resources Used: 
-  https://www.kali.org/tools/wpscan 
-  password list: rockyou.txt
+  https://www.kali.org/tools/wpscan,  password list: rockyou.txt
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
   - Commands used:
