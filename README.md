@@ -39,7 +39,7 @@ Time spent: **X** hours spent in total
 
 - [ ] Steps to recreate:
 <br /> - Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info. Lets PLAN our attack.
-<br /> - Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information on a TARGET. Perfome RECONNAISSANCE.
+<br /> - Kali is a great toolbox. Lets use our handy dandy tool wpSCAN to gather information on a TARGET. Perfome RECONNAISSANCE.
 <br /> - After some poking and proding with WPSCAN lets use our collected INTEL to test our might. Commense Brute Force Attack!!! 
 <br /> - Have I been pwned? Lets use the compromised credentials. GAIN ACCESS!!!
 <br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;). MAINTAIN ACCESS
