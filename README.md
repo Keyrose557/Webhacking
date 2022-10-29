@@ -11,7 +11,9 @@ Time spent: **X** hours spent in total
 - [ ] Summary:    
   - Vulnerability types: Enumerating Users
   - Tested in version: 4.2
-  - Tools/Resources Used: <br /> https://www.kali.org/tools/wpscan <br />  password list: rockyou.txt
+  - Tools/Resources Used:
+  <br />https://www.kali.org/tools/wpscan
+  <br />password list: rockyou.txt
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
   - Commands used:
@@ -27,11 +29,15 @@ Time spent: **X** hours spent in total
 <img src="user_enum1.gif">
 <br />A Successful Attack against all 5 User Accounts took 2min and 11 seconds !!!
 <img src="BruteForce.gif">
-<br />The Damage
+<br />The Damage... We got User credentials, PII, and our own Administrative Account!!!
 <img src="damage.gif">
 
 
-- [ ] Steps to recreate: 
+- [ ] Steps to recreate:
+<br /> Try common usernames in the TARGET's login page, guess common passwords. Maybe we'll get some helpful info
+<br /> Kali is a great toolbox. Lets use our handy dandy tool WPSCAN to gather information
+<br /> After some poking and proding with WPSCAN lets use our INTEL and test our might.
+<br />
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
   
