@@ -23,6 +23,7 @@ Time spent: **X** hours spent in total
 
 
 - [ ] Walkthrough:
+Where's the Beef
 <img src="user_enum1.gif">
 A Successful Attack against all 5 User Accounts took 2min and 11 seconds !!!
 <img src="BruteForce.gif">
