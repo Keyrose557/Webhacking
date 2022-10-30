@@ -95,7 +95,7 @@ Time spent: **8** hours spent in total
 <br /> I'll be listening for the Door
 <img src="backdoor.gif">
 
-- [ ] Steps to recreate: 
+- [ ] Steps to recreate:
 <br /> - Scan the Target for a weakness.
 <br /> - Bring out the right tool for the job. Use Metasploit Framework to attempt an exploit.  
 <br /> - Take aim and shoot. Are we in? Cool, leave a way to Maintain Access. Inject a reverse shell so our target does all the work.
