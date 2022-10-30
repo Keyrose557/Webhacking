@@ -46,12 +46,12 @@ Time spent: **X** hours spent in total
 <br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;). MAINTAIN ACCESS
 <br /> - Considerations: COVER YOUR TRACKS!!!
   
-### 2. (Required) Vulnerability Name or ID
+### 2. Vulnerable Plugin (CVE-2015-4133)
 
 - [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
+  - Vulnerability types: Arbitrary File Upload
+  - Tested in version: 3.1.3
+  - Fixed in version: 3.1.4
 - [ ] GIF Walkthrough: 
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
