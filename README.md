@@ -110,8 +110,10 @@ Solutions for Common Isssues:
 
 - https://gitforwindows.org/ (required for windows, install it)
 - https://notepad-plus-plus.org/ (use to edit config.yml & hosts file as administrator)
+- Create a restore point in Virtual Box once wpdistillery is up and running to revert ( Windows Powershell Failure to reboot vm issue, exploits not functioning issue)
 - https://www.virtualbox.org/wiki/Download_Old_Builds_6_1 (for MacOS network adapter issues and KERNAL driver not installed)
 - For MacOS check Security & Privacy: Allow apps downloaded from: SELECT app store and identified developers (make sure virtual box isnt being blocked)
+- For MacOS in VirtualBoX settings disable Audio (virtual machine aborts issue)
 
 ## License
 
