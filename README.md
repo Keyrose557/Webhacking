@@ -58,7 +58,7 @@ Time spent: **X** hours spent in total
 <br /> https://null-byte.wonderhowto.com/how-to/hack-like-pro-ultimate-command-cheat-sheet-for-metasploits-meterpreter-0149146/
 <br /> https://pentestmonkey.net/tools/web-shells/php-reverse-shell
 <br /> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
-<br /> https://vim.rtorr.com/
+<br /> https://phoenixnap.com/kb/vim-commands-cheat-sheet
 <br /> https://www.kali.org/tools/netcat/
 
  - Commands used:
