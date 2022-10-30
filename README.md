@@ -111,7 +111,7 @@ Time spent: **8** hours spent in total
   - Fixed in version: 4.2.3
 - [ ] GIF Walkthrough:
 <br /> Whats the big deal? Oh my good grief 
-<img src="vicitim.gif">
+<img src="victim.gif">
 <br /> Idk
 <img src="XXS.gif">
 - [ ] Steps to recreate: 
