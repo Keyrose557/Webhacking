@@ -8,7 +8,7 @@ Time spent: **8** hours spent in total
 
 ### 1. User Enumeration (CVE-2020-7918)
 
-- [ ] Summary:     
+- [ ] Summary: An access control vulnerability arises when usernames are directly referenced. This can be leveraged by advesaries using compromised credentials.     
   - Vulnerability types: Insecure direct object reference
   - Tested version: 4.2
   - Fixed version: NOT FIXED
@@ -49,7 +49,7 @@ Time spent: **8** hours spent in total
   
 ### 2. Vulnerable Plugin Reflect Gallery (CVE-2015-4133)
 
-- [ ] Summary: 
+- [ ] Summary: The Pluggin allowd for File Uploading, however without proper filtering. Adversies can compromise a victims host via their directory with malicious php file uploads
   - Vulnerability types: Arbitrary File Upload
   - Tested in version: 3.1.3
   - Fixed in version: 3.1.4
