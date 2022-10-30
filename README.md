@@ -46,12 +46,17 @@ Time spent: **X** hours spent in total
 <br /> - Lets cause some damage...hmmm how about we just add a way to get back in. Add our own administrator ;). MAINTAIN ACCESS
 <br /> - Considerations: COVER YOUR TRACKS!!!
   
-### 2. Vulnerable Plugin (CVE-2015-4133)
+### 2. Vulnerable Plugin Reflect Gallery (CVE-2015-4133)
 
 - [ ] Summary: 
   - Vulnerability types: Arbitrary File Upload
   - Tested in version: 3.1.3
   - Fixed in version: 3.1.4
+  - Tools/Resources Used:
+<br /> https://www.kali.org/tools/metasploit-framework/
+<br /> https://pentestmonkey.net/tools/web-shells/php-reverse-shell
+<br /> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
+<br /> https://www.kali.org/tools/netcat/
 - [ ] GIF Walkthrough: 
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
