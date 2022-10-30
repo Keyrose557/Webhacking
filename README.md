@@ -58,8 +58,13 @@ Time spent: **X** hours spent in total
 <br /> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 <br /> https://www.kali.org/tools/netcat/
 - [ ] Walkthrough:
-<br /> Our INTEL looks Good, lets send it
+<br /> Ole Reliable 
 <img src="plugins.gif">
+<br /> I've always wanted a Swiss Army Knife
+<img src="swiss_army_knife.gif">
+<br /> I'll be listening for secrets
+<img src="backdoor.gif">
+
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
