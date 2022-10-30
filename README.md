@@ -109,6 +109,9 @@ Time spent: **8** hours spent in total
   - Vulnerability types:XSS
   - Tested in version: 4.2
   - Fixed in version: 4.2.3
+  - Tools/Resoures Used:
+<br /> https://github.com/thelinuxguy001/xss_cheatsheet
+<br /> https://nvd.nist.gov/vuln/detail/CVE-2015-5622
 - [ ] GIF Walkthrough:
 <br /> Whats the big deal? Oh noooooo!!! 
 <img src="victim.gif">
