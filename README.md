@@ -98,9 +98,9 @@ Time spent: **8** hours spent in total
 - [ ] Steps to recreate:
 <br /> - Scan the Target for a weakness.
 <br /> - Bring out the right tool for the job. Use Metasploit Framework to attempt an exploit.  
-<br /> - Take aim and shoot. Are we in? Cool, leave a way to Maintain Access. Inject a reverse shell so our target does all the work.
+<br /> - Take aim and shoot. Are we in? Cool, leave a way to Maintain Access.Inject a reverse shell.
 <br /> - Now, we wait and listen. 
-<br /> - You are now an agent of chaos
+<br /> - You are now an agent of chaos.
 
 ### 3. (Required) Vulnerability Name or ID
 
