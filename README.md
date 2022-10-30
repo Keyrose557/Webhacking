@@ -54,9 +54,17 @@ Time spent: **X** hours spent in total
   - Fixed in version: 3.1.4
   - Tools/Resources Used:
 <br /> https://www.kali.org/tools/metasploit-framework/
+<br /> exploit/unix/webapp/wp_reflexgallery_file_upload
 <br /> https://pentestmonkey.net/tools/web-shells/php-reverse-shell
 <br /> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 <br /> https://www.kali.org/tools/netcat/
+
+ - Commands used:
+  <br /> wpscan --url http://wpdistillery.vm (Reconnasissance)
+  <br /> service postgresql start (
+  <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt (BruteForce Attack)
+  
+  
 - [ ] Walkthrough:
 <br /> Ole Reliable 
 <img src="plugins.gif">
@@ -80,27 +88,6 @@ Time spent: **X** hours spent in total
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
-### 4. (Optional) Vulnerability Name or ID
-
-- [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-
-### 5. (Optional) Vulnerability Name or ID
-
-- [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
 
 ## Assets
 
@@ -117,7 +104,9 @@ GIFs created with  ...
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Setting up the pen testing environment was really challenging. I had a tough time getting windows 10 to play nice with vagrant and virtual box. I persevered, through trial and error. My saving grace was utilizing the snapshot feature when things went wrong. This was key in troubleshooting and documenting solutions along the way. My advice for my fellow colleagues and academics, don’t get discouraged, our failures are our greatest teachers.
+
+Solutions:
 
 ## License
 
