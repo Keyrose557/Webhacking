@@ -97,8 +97,10 @@ Time spent: **X** hours spent in total
 
 - [ ] Steps to recreate: 
 - Scan the Target for a weakness.
-- Bring out the right tool for the job. Use Metasploit Framework (msf) to match an exploit to the vulnerability.  
-- Take aim and shoot. Do we , got it  
+- Bring out the right tool for the job. Use Metasploit Framework (msf) to attempt an exploit.  
+- Take aim and shoot. Are we in? Cool, leave a way to Maintain Access. Inject a reverse shell so our target does all the work.
+- Now, we wait and listen. 
+- You are now an agent of chaos
 
 ### 3. (Required) Vulnerability Name or ID
 
