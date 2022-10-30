@@ -14,10 +14,11 @@ Time spent: **8** hours spent in total
   - Fixed version: NOT FIXED
   - Affected source code: (http://wpdistillery.vm/wp-login.php)
   - Tools/Resources Used:
-  <br /> https://www.kali.org/get-kali/#kali-virtual-machines
-  <br /> https://www.kali.org/tools/wpscan
-  <br /> https://wpscan.com/
-  <br /> password list: rockyou.txt
+ <br /> https://www.kali.org/get-kali/#kali-virtual-machines
+ <br /> https://www.kali.org/tools/wpscan
+ <br /> https://wpscan.com/
+ <br /> https://nvd.nist.gov/vuln/detail/CVE-2020-7918
+ <br /> password list: rockyou.txt
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
   - Commands used:
@@ -53,6 +54,7 @@ Time spent: **8** hours spent in total
   - Tested in version: 3.1.3
   - Fixed in version: 3.1.4
   - Tools/Resources Used:
+<br /> https://nvd.nist.gov/vuln/detail/CVE-2015-4133
 <br /> https://www.kali.org/tools/metasploit-framework/
 <br /> exploit/unix/webapp/wp_reflexgallery_file_upload
 <br /> https://null-byte.wonderhowto.com/how-to/hack-like-pro-ultimate-command-cheat-sheet-for-metasploits-meterpreter-0149146/
