@@ -96,11 +96,11 @@ Time spent: **8** hours spent in total
 <img src="backdoor.gif">
 
 - [ ] Steps to recreate: 
-- Scan the Target for a weakness.
-- Bring out the right tool for the job. Use Metasploit Framework (msf) to attempt an exploit.  
-- Take aim and shoot. Are we in? Cool, leave a way to Maintain Access. Inject a reverse shell so our target does all the work.
-- Now, we wait and listen. 
-- You are now an agent of chaos
+<br /> - Scan the Target for a weakness.
+<br /> - Bring out the right tool for the job. Use Metasploit Framework (msf) to attempt an exploit.  
+<br /> - Take aim and shoot. Are we in? Cool, leave a way to Maintain Access. Inject a reverse shell so our target does all the work.
+<br /> - Now, we wait and listen. 
+<br /> - You are now an agent of chaos
 
 ### 3. (Required) Vulnerability Name or ID
 
