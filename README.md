@@ -57,7 +57,9 @@ Time spent: **X** hours spent in total
 <br /> https://pentestmonkey.net/tools/web-shells/php-reverse-shell
 <br /> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 <br /> https://www.kali.org/tools/netcat/
-- [ ] GIF Walkthrough: 
+- [ ] Walkthrough:
+Our INTEL looks Good, lets send it
+<img src="plugins.gif">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
