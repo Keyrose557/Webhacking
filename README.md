@@ -101,13 +101,14 @@ Time spent: **8** hours spent in total
 <br /> - Take aim and shoot. Are we in? Cool, leave a way to Maintain Access.Inject a reverse shell.
 <br /> - Now, we wait and listen. 
 <br /> - You are now an agent of chaos.
+<br />  Considerations: Privilege Escalation should be attempted 
 
-### 3. (Required) Vulnerability Name or ID
+### 3. Authenticated Stored Cross-Site Scripting CVE
 
 - [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
+  - Vulnerability types:XSS
+  - Tested in version: 4.2
+  - Fixed in version: 4.2.3
 - [ ] GIF Walkthrough: 
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
