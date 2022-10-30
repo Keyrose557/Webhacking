@@ -49,7 +49,7 @@ Time spent: **8** hours spent in total
   
 ### 2. Vulnerable Plugin Reflect Gallery (CVE-2015-4133)
 
-- [ ] Summary: The Pluggin allowd for File Uploading, however without proper filtering. Adversies can compromise a victims host via their directory with malicious php file uploads
+- [ ] Summary: The Pluggin allows for File Uploading, however without proper filtering. Adversies can compromise a victims host via their directory with malicious php file uploads
   - Vulnerability types: Arbitrary File Upload
   - Tested in version: 3.1.3
   - Fixed in version: 3.1.4
