@@ -128,7 +128,7 @@ Time spent: **8** hours spent in total
 
 ## Assets
 
-List any additional assets, such as scripts or files
+https://www.offensive-security.com/offsec/what-it-means-to-try-harder/
 
 ## Resources
 
