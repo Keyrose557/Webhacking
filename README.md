@@ -55,8 +55,10 @@ Time spent: **X** hours spent in total
   - Tools/Resources Used:
 <br /> https://www.kali.org/tools/metasploit-framework/
 <br /> exploit/unix/webapp/wp_reflexgallery_file_upload
+<br /> https://null-byte.wonderhowto.com/how-to/hack-like-pro-ultimate-command-cheat-sheet-for-metasploits-meterpreter-0149146/
 <br /> https://pentestmonkey.net/tools/web-shells/php-reverse-shell
 <br /> https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
+<br /> https://vim.rtorr.com/
 <br /> https://www.kali.org/tools/netcat/
 
  - Commands used:
@@ -94,7 +96,9 @@ Time spent: **X** hours spent in total
 <img src="backdoor.gif">
 
 - [ ] Steps to recreate: 
-
+- Scan the Target for a weakness.
+- Bring out the right tool for the job. Use Metasploit Framework (msf) to match an exploit to the vulnerability.  
+- Take aim and shoot. Do we , got it  
 
 ### 3. (Required) Vulnerability Name or ID
 
