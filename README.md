@@ -110,7 +110,7 @@ Solutions for Common Isssues:
 
 - https://gitforwindows.org/ (required for windows, install it)
 - https://notepad-plus-plus.org/ (use to edit config.yml & hosts file as administrator)
-- https://www.virtualbox.org/wiki/Download_Old_Builds_6_1 (for MacOS network adapter issues)
+- https://www.virtualbox.org/wiki/Download_Old_Builds_6_1 (for MacOS network adapter issues and KERNAL driver not installed)
 - For MacOS check Security & Privacy: Allow apps downloaded from: SELECT app store and identified developers (make sure virtual box isnt being blocked)
 
 ## License
