@@ -110,7 +110,7 @@ Time spent: **8** hours spent in total
   - Tested in version: 4.2
   - Fixed in version: 4.2.3
 - [ ] GIF Walkthrough:
-<br /> Whats the big deal? Oh my... \('o')/ 
+<br /> Whats the big deal? Oh my...('o') 
 <img src="vicitim.gif">
 <br />  
 <img src="XXS.gif">
