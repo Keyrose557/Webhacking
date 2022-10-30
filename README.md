@@ -94,8 +94,7 @@ Time spent: **X** hours spent in total
 <img src="backdoor.gif">
 
 - [ ] Steps to recreate: 
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+
 
 ### 3. (Required) Vulnerability Name or ID
 
