@@ -110,9 +110,9 @@ Time spent: **8** hours spent in total
   - Tested in version: 4.2
   - Fixed in version: 4.2.3
 - [ ] GIF Walkthrough:
-<br /> Whats the big deal? Oh my good grief 
+<br /> Whats the big deal? Oh noooooo!!! 
 <img src="victim.gif">
-<br /> Idk
+<br /> You can't win em all
 <img src="XXS.gif">
 - [ ] Steps to recreate: 
 
