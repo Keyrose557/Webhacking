@@ -119,11 +119,11 @@ Time spent: **8** hours spent in total
 <img src="victim.gif">
 <br /> You can't win em all
 <img src="XXS.gif">
-- [ ] Steps to recreate: 
-- You gotta scan your target! WPSCAN quick.
-- Read the INTEL...That means the References, dont be afraid of the rabbit hole.
-- Chasing the white rabbit is hard, lets research!
-- Lets give it a shot now, somethings bound to hit. 
+- [ ] Steps to recreate:
+<br /> - You gotta scan your target! WPSCAN quick.
+<br /> - Read the INTEL...That means the References, dont be afraid of the rabbit hole.
+<br /> - Chasing the white rabbit is hard, lets research!
+<br /> - Lets give it a shot now, somethings bound to hit. 
 
 
 ## Assets
