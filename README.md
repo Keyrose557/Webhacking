@@ -16,6 +16,7 @@ Time spent: **X** hours spent in total
   - Tools/Resources Used:
   <br /> https://www.kali.org/get-kali/#kali-virtual-machines
   <br /> https://www.kali.org/tools/wpscan
+  <br /> https://wpscan.com/
   <br /> password list: rockyou.txt
   - Techniques: BruteForce, Dictionary Attack, Credential Stuffing
   - Preventative Action: Password Complexity, Multi-Factor Authentication (MFA), Password Manager, Account Lockout Policy
