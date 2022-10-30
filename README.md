@@ -8,7 +8,7 @@ Time spent: **8** hours spent in total
 
 ### 1. User Enumeration (CVE-2020-7918)
 
-- [ ] Summary: An access control vulnerability arises when usernames are directly referenced. This can be leveraged by advesaries using compromised credentials.     
+- [ ] Summary: An access control vulnerability arises when usernames are directly referenced. This can be leveraged by advesaries using compromised credentials     
   - Vulnerability types: Insecure direct object reference
   - Tested version: 4.2
   - Fixed version: NOT FIXED
@@ -107,14 +107,14 @@ Time spent: **8** hours spent in total
 
 ### 3. Authenticated Stored Cross-Site Scripting (CVE-2015-5622)
 
-- [ ] Summary: 
+- [ ] Summary: Cross-site scripting vulnerability allows remote authenticated users to inject arbitrary web script or HTML by leveraging the Author or Contributor. 
   - Vulnerability types:XSS
   - Tested in version: 4.2
   - Fixed in version: 4.2.3
   - Tools/Resoures Used:
 <br /> https://github.com/thelinuxguy001/xss_cheatsheet
 <br /> https://nvd.nist.gov/vuln/detail/CVE-2015-5622
-- [ ] GIF Walkthrough:
+- [ ] Walkthrough:
 <br /> Whats the big deal? Oh noooooo!!! 
 <img src="victim.gif">
 <br /> You can't win em all
