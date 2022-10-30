@@ -100,7 +100,7 @@ Time spent: **8** hours spent in total
 <br /> - Bring out the right tool for the job. Use Metasploit Framework to attempt an exploit.  
 <br /> - Take aim and shoot. Are we in? Cool, leave a way to Maintain Access.Inject a reverse shell.
 <br /> - Now, we wait and listen. 
-<br /> - You are now an agent of chaos.
+<br /> - Knock Knock...You are now an agent of chaos.
 <br />  Considerations: Privilege Escalation should be attempted 
 
 ### 3. Authenticated Stored Cross-Site Scripting (CVE-2015-5622)
@@ -118,7 +118,10 @@ Time spent: **8** hours spent in total
 <br /> You can't win em all
 <img src="XXS.gif">
 - [ ] Steps to recreate: 
-
+- You gotta scan your target! WPSCAN quick.
+- Read the INTEL...That means the References, dont be afraid of the rabbit hole.
+- Chasing the white rabbit is hard, lets research!
+- Lets give it a shot now, somethings bound to hit. 
 
 
 ## Assets
@@ -129,7 +132,7 @@ List any additional assets, such as scripts or files
 
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
-
+- 
 GIFs created with  ...
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
