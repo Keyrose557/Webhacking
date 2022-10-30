@@ -103,13 +103,17 @@ Time spent: **8** hours spent in total
 <br /> - You are now an agent of chaos.
 <br />  Considerations: Privilege Escalation should be attempted 
 
-### 3. Authenticated Stored Cross-Site Scripting CVE
+### 3. Authenticated Stored Cross-Site Scripting (CVE-2015-5622)
 
 - [ ] Summary: 
   - Vulnerability types:XSS
   - Tested in version: 4.2
   - Fixed in version: 4.2.3
-- [ ] GIF Walkthrough: 
+- [ ] GIF Walkthrough:
+<br /> Whats the big deal? Oh my... \('o')/ 
+<img src="vicitim.gif">
+<br />  
+<img src="XXS.gif">
 - [ ] Steps to recreate: 
 - [ ] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
