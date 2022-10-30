@@ -92,7 +92,7 @@ Time spent: **X** hours spent in total
 <img src="plugins.gif">
 <br /> I've always wanted a Swiss Army Knife
 <img src="swiss_army_knife.gif">
-<br /> I'll be listening for secrets
+<br /> I'll be listening for the Door
 <img src="backdoor.gif">
 
 - [ ] Steps to recreate: 
