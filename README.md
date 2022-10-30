@@ -108,9 +108,9 @@ Setting up the pen testing environment was really challenging. I had a tough tim
 
 Solutions for Common Isssues:
 
--https://gitforwindows.org/ (for windows)
--https://notepad-plus-plus.org/ (edit as administrator config.yml, hosts file)
--https://www.virtualbox.org/wiki/Download_Old_Builds_6_1 (for MacOS)
+- https://gitforwindows.org/ (for windows)
+- https://notepad-plus-plus.org/ (edit as administrator config.yml, hosts file)
+- https://www.virtualbox.org/wiki/Download_Old_Builds_6_1 (for MacOS)
 - For MacOS check Security & Privacy: Allow apps downloaded from: SELECT app store and identified developers
 
 ## License
