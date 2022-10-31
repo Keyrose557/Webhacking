@@ -107,7 +107,7 @@ Time spent: **12** hours spent in total
 
 ### 3. Authenticated Stored Cross-Site Scripting (CVE-2015-5622)
 
-- [ ] Summary: Cross-site scripting vulnerability allows remote authenticated users to inject arbitrary web script or HTML by leveraging the Author or Contributor. 
+- [ ] Summary: Cross-site scripting vulnerability allows remote authenticated users to inject arbitrary web script or HTML by leveraging the Author or Contributor role. 
   - Vulnerability types:XSS
   - Tested in version: 4.2
   - Fixed in version: 4.2.3
