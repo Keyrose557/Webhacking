@@ -21,7 +21,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="Insecure Direct Object Reference.gif">
+<img src="IDOR.gif">
 
 
 ## Green
