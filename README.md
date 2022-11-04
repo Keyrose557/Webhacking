@@ -30,7 +30,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="Hijack.gif">
 
 
 ## Red
@@ -39,7 +39,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="red-vuln1.gif">
+<img src="UserEnum.gif">
 
 
 ## Notes
