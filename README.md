@@ -31,10 +31,13 @@ You Got Jacked!?!
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: User Enumeration
 
 Description:
 
+<br />
+<br />
+Wait a minute Your not suppose to tell me that
 <img src="UserEnum.gif">
 
 
