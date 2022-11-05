@@ -53,7 +53,8 @@ Our Target has a feedback form. Lets try a stored XXS attack. Its like a sring t
 Innocent Vandalism ?
 <img src="xxs.gif">
 <br />
-Lets try something more devious 
+Lets try something more devious
+<br/> https://m.youtube.com/watch?v=7ewZSjKaOc8&feature=youtu.be
 <img src="xxs2.gif">
 ## Red
 
