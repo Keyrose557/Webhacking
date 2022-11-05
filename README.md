@@ -21,7 +21,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="IDOR.gif">
+<img src="Hijack.gif">
 
 
 ## Green
@@ -30,7 +30,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="Hijack.gif">
+<img src="UserEnum.gif">
 
 
 ## Red
@@ -39,7 +39,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="UserEnum.gif">
+<img src="IDOR.gif">
 
 
 ## Notes
