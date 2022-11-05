@@ -1,6 +1,6 @@
 # Pen Testing Live Targets
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -47,7 +47,7 @@ Vulnerability #2: Cross-Site Scripting
 Description:
 <br />
 <br />
-Our Target has a feedback form. Lets try a stored XXS attack. Its like a bring trap a user need to step on it. The first trap is a simple alert indicating we were successful. Lets try something more devious like directing a user to a new URL.  
+Our Target has a feedback form. Lets try a stored XXS attack. Its like a sring trap, a user need to step on it. The first trap is a simple alert indicating we were successful. Lets try something more devious like directing a user to a new URL. 
 <br />
 <br />
 Innocent Vandalism ?
@@ -57,14 +57,16 @@ Lets try something more devious
 <img src="xxs2.gif">
 ## Red
 
-Vulnerability #1: __________________
-
-Description:
-
+Vulnerability #1: InSecure Direct Object Reference
+<br />
+<br />
+Description: Check out the URL, objects from the sales persons roster are identified by id numbers. Lets try our own to see where this leads. You might find something some secrets...  
+<br />
+<br />
+Hey i found your secrets! 
 <img src="IDOR.gif">
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
-
+I used nikto to scan the targets url for each and it pulled alot of information...it led me down a rabbit hole where I was unable to successfuly bare any fruit. I attempted to brute force my way in for the username jmonroe99 with burpsuite and rockyou.txt. No luck here either due to time constrants. 
