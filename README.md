@@ -23,6 +23,7 @@ Description:
 <br />
 Using BurpSuite, capture the PHP Session ID of an authenticated User. Doing so, we change our session ID to matach theirs via PHP script. Resulting to a successful hijack, bypassing authentication.
 <br />
+<br />
 You Got Jacked!?!
 <img src="Hijack.gif">
 
