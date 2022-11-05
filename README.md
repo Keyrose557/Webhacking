@@ -17,10 +17,11 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijacking
 
-Description:
-
+Description: Using BurpSuite, capture the PhP Session ID of an authenticated User. Doing so, we change our session to matach theirs. The resulting to a successful hijack.
+<br />
+You Got Jacked
 <img src="Hijack.gif">
 
 
