@@ -21,7 +21,7 @@ Vulnerability #1: Session Hijacking
 
 Description: Using BurpSuite, capture the PhP Session ID of an authenticated User. Doing so, we change our session to matach theirs. The resulting to a successful hijack.
 <br />
-You Got Jacked
+You Got Jacked!?!
 <img src="Hijack.gif">
 
 
