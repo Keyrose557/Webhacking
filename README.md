@@ -51,10 +51,10 @@ Our Target has a feedback form. Lets try a stored XXS attack. Its like a bring t
 <br />
 <br />
 Innocent Vandalism ?
-<img src="Cross-Site Scripting.gif">
+<img src="xxs.gif">
 <br />
 Lets try something more devious 
-<img src="Cross-Site Scripting bonus 2">
+<img src="xxs2.gif">
 ## Red
 
 Vulnerability #1: __________________
