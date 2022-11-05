@@ -54,7 +54,7 @@ Innocent Vandalism ?
 <img src="Cross-Site Scripting.gif">
 <br />
 Lets try something more devious 
-<img src="Cross-Site Scripting Bonus 2.gif">
+<img src="Cross-Site Scripting bonus 2">
 ## Red
 
 Vulnerability #1: __________________
