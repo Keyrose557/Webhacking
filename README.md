@@ -1,6 +1,6 @@
 # Pen Testing Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -20,6 +20,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 Vulnerability #1: Session Hijacking
 
 Description:
+<br />
 <br />
 Using BurpSuite, capture the PHP Session ID of an authenticated User. Doing so, we change our session ID to matach theirs via PHP script. Resulting to a successful hijack, bypassing authentication.
 <br />
