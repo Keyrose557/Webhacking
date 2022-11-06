@@ -61,7 +61,7 @@ Lets try something more devious
 Vulnerability #1: InSecure Direct Object Reference
 <br />
 <br />
-Description: Check out the URL, objects from the sales persons roster are identified by id numbers. Lets try our own to see where this leads. You might find something some secrets...  
+Description: Check out the URL, objects from the sales persons roster are identified by id numbers. Lets try our own to see where this leads. You might find some secrets...  
 <br />
 <br />
 Hey i found your secrets! 
