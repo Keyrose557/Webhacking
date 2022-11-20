@@ -52,5 +52,3 @@ Yes I want to cry
 <img src="x-malware.gif">
 
 ## Notes
-
-Describe any challenges encountered while doing the assignment.
