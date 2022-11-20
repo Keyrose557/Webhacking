@@ -6,7 +6,7 @@
 
 ### MHN-Admin Deployment
 
-**Summary:** Lets use Google Cloud Platform to make Virtual Machines to Host and manage our Honeypot, for safety and education.
+**Summary:** Lets use Google Cloud Platform to make Virtual Machines to Host and manage our Honeypot, for safety and educational purposes.
 <br />
 <br />
 Safety First
