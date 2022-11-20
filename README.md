@@ -28,7 +28,7 @@ Safety First
 
 #### X Honeypot
 
-**Summary:** Lets try some more lures...Not much luck with different honeypots. Whats dionaea secret? Its not a bad idea to cast a variety of baits to get a bite.
+**Summary:** Lets try some more lures.Its not a bad idea to cast a variety of baits to get a bite....Not much luck with other honeypots. Whats dionaea secret?
 
 <br />
 <br />
