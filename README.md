@@ -32,9 +32,9 @@ Safety First
 
 <img src="x-honeypot.gif">
 
-### Malware Capture and Identification (Optional)
+### Malware Capture and Identification 
 
-#### X Malware
+#### WannaCry Malware
 
 **Summary:** Hey looks like dionaea found something. After some poking around seems like WannaCry is still active. Its ransomware from 2017, kinda spooky.   
 
@@ -45,7 +45,8 @@ MD5 Hash2: b03cce3bffc2d0b63218cdccedf9acf1
 MD5 Hash3: 541244c6529f99813eae1f884512a978
 <br />
 
-
+<br />
+Yes I want to cry
 <img src="x-malware.gif">
 
 ## Notes
