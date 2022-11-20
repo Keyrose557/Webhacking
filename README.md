@@ -34,7 +34,7 @@ Safety First
 <br />
 Does this count as blue team phishing ?
 <br />
-<img src="x-honeypot.gif">
+<img src="honey7.gif">
 
 ### Malware Capture and Identification 
 
