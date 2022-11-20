@@ -1,6 +1,6 @@
 # Honeypot Assignment
 
-**Time spent:** **5** hours spent in total
+**Time spent:** **10** hours spent in total
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
@@ -21,7 +21,7 @@ Safety First
 
 ### Database Backup 
 
-**Summary:** Lets make a back up 
+**Summary:** Lets save our data... time for a back up. The json file will contain vital information for our security research such as who what where and when of our attacks.
 <img src="honey6.gif">
 
 ### Deploying Additional Honeypot(s) (Optional)
@@ -36,11 +36,13 @@ Safety First
 
 #### X Malware
 
-**Summary:** How did you find it? Which honeypot captured it? What does each malware do?
+**Summary:** Hey looks like dionaea found something. After some poking around seems like WannaCry is still active. Its ransomware from 2017, kinda spooky.   
 
-MD5 Hash: *Run `md5sum` on the file and record the hash here.*
+MD5 Hash1: 0ab9a60a55cb40fc338e8f4988feee2f
+MD5 Hash2: b03cce3bffc2d0b63218cdccedf9acf1
+MD5 Hash3: 541244c6529f99813eae1f884512a978
 
-SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
+
 
 <img src="x-malware.gif">
 
