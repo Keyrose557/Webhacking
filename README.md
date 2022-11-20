@@ -14,7 +14,11 @@ Safety First
 
 ### Dionaea Honeypot Deployment
 
-**Summary:** Dionaea is our live bait, its pretending to be vulnerable host. This is what lures in malicious actors to execute malicious attacks. While our honeypot is being attacked... we are collecting information about our attacker. This is key for our identifying threat actors and their methods. 
+**Summary:** Dionaea is our live bait, its pretending to be vulnerable host. This is what lures in malicious actors to execute malicious attacks. While our honeypot is being attacked... we are collecting information about our attacker. This is key for our identifying threat actors and their methods.
+<br />
+Friend or Foe
+<br />
+<br />
 <img src="dionaea-honeypot.gif">
 
 ### Database Backup 
