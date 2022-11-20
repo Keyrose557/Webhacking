@@ -39,9 +39,11 @@ Safety First
 **Summary:** Hey looks like dionaea found something. After some poking around seems like WannaCry is still active. Its ransomware from 2017, kinda spooky.   
 
 MD5 Hash1: 0ab9a60a55cb40fc338e8f4988feee2f
+<br />
 MD5 Hash2: b03cce3bffc2d0b63218cdccedf9acf1
+<br />
 MD5 Hash3: 541244c6529f99813eae1f884512a978
-
+<br />
 
 
 <img src="x-malware.gif">
