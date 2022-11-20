@@ -28,8 +28,12 @@ Safety First
 
 #### X Honeypot
 
-**Summary:** What does this honeypot simulate and do for a security researcher?
+**Summary:** Lets try some more lures...Not much luck with different honeypots. Whats dionaea secret? Its not a bad idea to cast a variety of baits to get a bite.
 
+<br />
+<br />
+Does this count as blue team phishing ?
+<br />
 <img src="x-honeypot.gif">
 
 ### Malware Capture and Identification 
