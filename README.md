@@ -16,6 +16,7 @@ Safety First
 
 **Summary:** Dionaea is our live bait, its pretending to be vulnerable host. This is what lures in malicious actors to execute malicious attacks. While our honeypot is being attacked... we are collecting information about our attacker. This is key for our identifying threat actors and their methods.
 <br />
+<br />
 Friend or Foe
 <br />
 <br />
