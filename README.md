@@ -21,7 +21,7 @@ Safety First
 
 ### Database Backup 
 
-**Summary:** Lets save our data... time for a back up. The json file will contain vital information for our security research such as who what where and when of our attacks.
+**Summary:** Lets save our data... time for a back up. The json file will contain vital information for our security research such as who what where and when of our logged attacks.
 <img src="honey6.gif">
 
 ### Deploying Additional Honeypot(s)
