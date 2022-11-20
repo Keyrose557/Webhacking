@@ -36,7 +36,7 @@ Safety First
 
 #### WannaCry Malware
 
-**Summary:** Hey looks like dionaea found something. After some poking around seems like WannaCry is still active. Its ransomware from 2017, kinda spooky.   
+**Summary:** Hey looks like dionaea found something. After some poking around seems like WannaCry is still active. Its ransomware from 2017, kinda spooky. https://www.virustotal.com/gui/home/search  
 
 MD5 Hash1: 0ab9a60a55cb40fc338e8f4988feee2f
 <br />
