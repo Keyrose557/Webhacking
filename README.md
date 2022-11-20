@@ -14,12 +14,12 @@ Safety First
 <br />
 <img src="mhn-admin.gif">
 
-### Dionaea Honeypot Deployment (Required)
+### Dionaea Honeypot Deployment
 
 **Summary:** Dionaea is our live bait, its pretending to be vulnerable host. This is what lures in malicious actors to execute malicious attacks. While our honeypot is being attacked... we are collecting information about our attacker. This is key for our identifying threat actors and their methods. 
 <img src="dionaea-honeypot.gif">
 
-### Database Backup (Required) 
+### Database Backup 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
