@@ -4,9 +4,9 @@
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
-### MHN-Admin Deployment (Required)
+### MHN-Admin Deployment
 
-**Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
+**Summary:** Lets use Google Cloud Platform to make Virtual Machines to Host our Honeypot, for safety and education.
 
 <img src="mhn-admin.gif">
 
